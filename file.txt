@@ -1,1 +1,1 @@
-﻿This is the first version of the file (edit locally)
+﻿This is the first version of the file (edit on github)
