@@ -1,1 +1,1 @@
-﻿This is the first version of the file (edit locally1)
+This is the merged version of the file (both local and GitHub changes).
